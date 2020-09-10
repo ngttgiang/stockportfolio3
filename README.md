@@ -19,3 +19,6 @@ Enable user to select the top performing stocks within an industry based on pre-
 
 * Function `portfolio` : plot the cumulative PnL of the portfolio in the investment perio, and ratios such as return rate and Sharpe ratio.
 
+
+##### deploy.sh
+* Script to deploy app on AWS
